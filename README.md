@@ -2,7 +2,7 @@ O script Python permite enviar mensagens de e-mail e arquivos anexos de forma se
 
 É necessário que a conta de e-mail configurada permita o uso de aplicativos menos seguros, ou mesmo uma senha de app para serviços do Gmail, que foi o método utilizado neste exemplo.
 
-Para usar o script de forma correta, basta editar as variáveis 'msg' ['From'] com o e-mail do remetente e 'msg' ['To'] com os endereços de e-mail dos destinatários no PyCharm. É necessário também, que a variável 'Inclua sua senha de aplicativo aqui' seja substituida pela senha de app gerada.
+Para usar o script de forma correta, basta editar as variáveis 'msg' ['From'] com o e-mail do remetente e 'msg' ['To'] com os endereços de e-mail dos destinatários no PyCharm. É necessário também, que a variável 'Inclua sua senha do aplicativo aqui' seja substituida pela senha de app gerada.
 
 Para adicionar arquivos anexos ao corpo do e-mail, será necessário copiar os respectivos caminhos dentro da variável 'arquivos'.
 
