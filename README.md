@@ -1,4 +1,4 @@
-O script Python permite enviar mensagens de e-mail e arquivos anexos de forma segura durante a transmissão, basta apenas preencher as credenciais SMTP e os detalhes do e-mail para o envio.
+O script Python permite enviar mensagens de e-mail e arquivos anexos durante a transmissão, basta apenas preencher as credenciais SMTP e os detalhes do e-mail para o envio.
 
 É necessário que a conta de e-mail configurada permita o uso de aplicativos menos seguros, ou mesmo uma senha de app para serviços do Gmail, que foi o método utilizado neste exemplo.
 
@@ -6,4 +6,4 @@ Para usar o script de forma correta, basta editar as variáveis 'msg' ['Subject'
 
 Para adicionar arquivos anexos ao corpo do e-mail, será necessário copiar os respectivos caminhos dentro da variável 'arquivos'.
 
-Desta forma, o script funcionará perfeitamente, permitindo ao remetente enviar e-mails de forma automática e segura.
+Desta forma, o script funcionará perfeitamente, permitindo ao remetente enviar e-mails de forma automática.
